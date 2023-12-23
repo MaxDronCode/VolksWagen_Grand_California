@@ -8,10 +8,10 @@ Volkswagen Grand California is an educational project based on Kotlin, aimed at 
 
 <a id = "toc"></a>
 # Table of contents
-[Project Description](#project-description)
-[How to Install and Run the Project](#install)
-[Project Execution](#execution)
-[Summary](#summary)
+1.[Project Description](#project-description)
+2.[How to Install and Run the Project](#install)
+3.[Project Execution](#execution)
+4.[Summary](#summary)
 
 <a id = "project-description"></a>
 # Project Description
