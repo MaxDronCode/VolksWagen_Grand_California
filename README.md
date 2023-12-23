@@ -22,4 +22,10 @@ Run the project and follow the on-screen instructions.
 
 <img src="images/execution2.png" alt="CodeImage3" width="600"/>
 
+Don't worry if you enter the data incorrectly; the application has everything planned for that.
 
+<img src="images/executionErrors.png" alt="CodeImage3" width="600"/>
+
+In the end, you will obtain the result of the function based on the inputs you provided to the application.
+
+<img src="images/execution.png" alt="CodeImage3" width="600"/>
