@@ -29,3 +29,14 @@ Don't worry if you enter the data incorrectly; the application has everything pl
 In the end, you will obtain the result of the function based on the inputs you provided to the application.
 
 <img src="images/execution.png" alt="CodeImage3" width="600"/>
+
+---
+## Thank You for Exploring!
+
+I hope you enjoyed exploring this project as much as I did creating it. Throughout this journey, I've become more acquainted with the GitHub environment and mastered various Git commands. I've refined my understanding of modular programming concepts and embraced Kdoc, a widely recognized industry standard for code documentation.
+
+Looking forward to our paths crossing again in future, in more intricate projects.
+
+Happy coding!
+---
+
