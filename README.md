@@ -3,6 +3,7 @@
 
 # Overview
 Volkswagen Grand California is an educational project based on Kotlin, aimed at practicing modular programming, code documentation, and becoming familiar with the GitHub environment, in the Catalan language.
+![overviewImage](images/overview1.png)
 
 # Project Description
 This application assumes that you are a user of a Volkswagen Grand California and offers to calculate its price when you want to sell it as a used vehicle. The application utilizes various functions to determine the final price, such as the vehicle's mileage, tire wear, whether it has a bike rack, etc. In the end, the program will advise you on how much money it recommends listing it for in the used car market and provides a breakdown of the calculations performed.
