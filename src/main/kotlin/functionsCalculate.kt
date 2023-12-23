@@ -1,4 +1,4 @@
-/**
+    /**
  * @author Max Dron
  * @since 23/12/19
  * @param Rep per paràmetre els km, el preu de la furgo i la seva antiguitat, i calcula la devaluació del preu en funció dels km i la antiguitat.
