@@ -1,5 +1,5 @@
 # PROJECT VOLKSWAGEN GRAND CALIFORNIA
-![Logo](logo.png)
+![Logo](/images/logo.png)
 
 # Overview
 Volkswagen Grand California is an educational project based on Kotlin, aimed at practicing modular programming, code documentation, and becoming familiar with the GitHub environment, in the Catalan language.
