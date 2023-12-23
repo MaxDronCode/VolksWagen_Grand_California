@@ -35,7 +35,6 @@ fun readInt() : Int{
     }while (!valueOk)
     return value
 }
-
 /**
  * @author Max Dron
  * @param Aquesta funció rep per paràmetre la opció del menú que ha seleccionat l'usuari i valida que hagi seleccionat una opció correcta ( 1 o 2 ).
