@@ -16,6 +16,32 @@ The application relies on a file of functions to display various interaction [me
 
 <img src="images/colors.png" alt="CodeImage2" width="600"/>
 
+# How to Install and Run the Project
+Here, I'll show you how you can install and run it on your own machine.
+
+## Prerequisites
+Before you begin, make sure you have the following installed on your machine:
+
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [Kotlin](https://kotlinlang.org/docs/tutorials/command-line.html)
+
+## Installation Steps
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+   cd your-project
+   ```
+2. **Compile the Project:**
+   ```bash
+   kotlinc -include-runtime -d your-project.jar src/main/kotlin/*.kt
+   ```
+3. **Run the Application:**
+   ```bash
+   java -jar your-project.jar
+   ```
+- Another option is to import the repository into your favorite IDE. For optimal import and execution, it is recommended to use IntelliJ with Gradle
+
 
 # Project Execution
 Run the project and follow the on-screen instructions.
