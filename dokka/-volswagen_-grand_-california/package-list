@@ -1,0 +1,36 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/-volswagen_-grand_-california/[root]/index.html
+$dokka.location:/FunctionsCalculateKt///PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-calculate-kt/index.html
+$dokka.location:/FunctionsCalculateKt/calculateDevaluationPerKm/#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-calculate-kt/calculate-devaluation-per-km.html
+$dokka.location:/FunctionsCalculateKt/calculateFinalPrice/#kotlin.Int#kotlin.Double#kotlin.Int/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-calculate-kt/calculate-final-price.html
+$dokka.location:/FunctionsCalculateKt/calculatePricesBasedOnBikeRack/#kotlin.Int#kotlin.Boolean/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-calculate-kt/calculate-prices-based-on-bike-rack.html
+$dokka.location:/FunctionsCalculateKt/calculateWheelsDevaluation/#kotlin.Int/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-calculate-kt/calculate-wheels-devaluation.html
+$dokka.location:/FunctionsMenuKt///PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-menu-kt/index.html
+$dokka.location:/FunctionsMenuKt/menuKm/#/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-menu-kt/menu-km.html
+$dokka.location:/FunctionsMenuKt/menuResult/#kotlin.Int#kotlin.Double#kotlin.Double#kotlin.Int/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-menu-kt/menu-result.html
+$dokka.location:/FunctionsMenuKt/menuWelcome/#/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-menu-kt/menu-welcome.html
+$dokka.location:/FunctionsMenuKt/menuWheels/#/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-menu-kt/menu-wheels.html
+$dokka.location:/FunctionsVWKt///PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-v-w-kt/index.html
+$dokka.location:/FunctionsVWKt/assignPriceToVehicle/#kotlin.Int/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-v-w-kt/assign-price-to-vehicle.html
+$dokka.location:/FunctionsVWKt/getScan/#/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-v-w-kt/get-scan.html
+$dokka.location:/FunctionsVWKt/readInt/#/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-v-w-kt/read-int.html
+$dokka.location:/FunctionsVWKt/round/#kotlin.Double/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-v-w-kt/round.html
+$dokka.location:/FunctionsVWKt/validationUserOption/#kotlin.Int/PointingToDeclaration/-volswagen_-grand_-california/[root]/-functions-v-w-kt/validation-user-option.html
+$dokka.location:/MainKt///PointingToDeclaration/-volswagen_-grand_-california/[root]/-main-kt/index.html
+$dokka.location:/MainKt/main/#/PointingToDeclaration/-volswagen_-grand_-california/[root]/-main-kt/main.html
+$dokka.location:org.example////PointingToDeclaration/-volswagen_-grand_-california/org.example/index.html
+$dokka.location:org.example/ConsoleColorsKt///PointingToDeclaration/-volswagen_-grand_-california/org.example/-console-colors-kt/index.html
+$dokka.location:org.example/UtilitiesKt///PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/index.html
+$dokka.location:org.example/UtilitiesKt/getScan/#/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/get-scan.html
+$dokka.location:org.example/UtilitiesKt/readBoolean/#kotlin.String#kotlin.String/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-boolean.html
+$dokka.location:org.example/UtilitiesKt/readChar/#kotlin.String#kotlin.String#kotlin.Int/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-char.html
+$dokka.location:org.example/UtilitiesKt/readChar/#kotlin.String#kotlin.String/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-char.html
+$dokka.location:org.example/UtilitiesKt/readFloat/#kotlin.String#kotlin.String#kotlin.String#kotlin.Float#kotlin.Float/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-float.html
+$dokka.location:org.example/UtilitiesKt/readFloat/#kotlin.String#kotlin.String/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-float.html
+$dokka.location:org.example/UtilitiesKt/readInt/#kotlin.String#kotlin.String#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-int.html
+$dokka.location:org.example/UtilitiesKt/readInt/#kotlin.String#kotlin.String/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-int.html
+$dokka.location:org.example/UtilitiesKt/readSentence/#kotlin.String#kotlin.String/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-sentence.html
+$dokka.location:org.example/UtilitiesKt/readWord/#kotlin.String#kotlin.String/PointingToDeclaration/-volswagen_-grand_-california/org.example/-utilities-kt/read-word.html
+org.example
+
